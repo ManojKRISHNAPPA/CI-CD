@@ -7,7 +7,7 @@
 
   <label for="country">Country</label>
   <select id="country" name="country">
-    <option value="australia">Australia</option>
+    <option value="australia">INDIA</option>
     <option value="canada">Canada</option>
     <option value="usa">USA</option>
   </select>
