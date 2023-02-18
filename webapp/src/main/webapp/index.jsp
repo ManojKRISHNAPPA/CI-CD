@@ -8,7 +8,7 @@
 
       <div class="col">
         <a href="#" class="fb btn">
-          <i class="fa fa-facebook fa-fw"></i> Login with instagram
+          <i class="fa fa-instagram fa-fw"></i> Login with instagram
         </a>
         <a href="#" class="twitter btn">
           <i class="fa fa-twitter fa-fw"></i> Login with Twitter
